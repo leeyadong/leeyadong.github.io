@@ -3,19 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Yadong
-middle_name: 
-last_name: Li
-email: yadongli@uw.edu
+first_name: Changqian
+# middle_name: R.
+last_name: Yu
+email: y-changqian@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-keywords: yadongli # add your own keywords or leave empty
+footer_text: > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos taken in Japan by my wife Mengqi Du.
+keywords: yu-changqian # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌕 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://leeyadong.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://yu-changqian.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -46,9 +47,9 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
+# TODO(changqian): enable after starting blog
 search_enabled: false
 socials_in_search: false
-bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -69,16 +70,15 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 acm_id: # your dl.acm.org/profile/id
-blogger_url: # your blogger URL
+blogger_url: https://www.zhihu.com/people/yu-chang-qian
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: yu-changqian
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -93,7 +93,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: iZWM3pAAAAAJ # your Google Scholar ID
+scholar_userid: Hv-vj2sAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -105,7 +105,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: # your X handle
+x_username: ChangqianYu
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -130,8 +130,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Welcome to Yadong's Log # blog_name will be displayed in your blog page
-blog_description: Hi, this is Yadong Li.
+blog_name: Welcome to Changqian's Log # blog_name will be displayed in your blog page
+blog_description: Hi, this is Yu Changqian. I set up this blog to share my articles and thoughts.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -158,13 +158,13 @@ giscus:
   emit_metadata: 0
   lang: en
 
-# # Disqus comments (DEPRECATED)
+# Disqus comments (DEPRECATED)
 # disqus_shortname: al-folio # put your disqus shortname
-# # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-# # External sources.
-# # If you have blog posts published on medium.com or other external sources,
-# # you can display them in your blog by adding a link to the RSS feed.
+# External sources.
+# If you have blog posts published on medium.com or other external sources,
+# you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
 #   - name: medium.com
 #     rss_url: https://medium.com/@al-folio/feed
@@ -191,10 +191,10 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /:collection/:title/
+    permalink: /news/:path/
   projects:
     output: true
-    permalink: /:collection/:title/
+    permalink: /projects/:path/
 
 announcements:
   enabled: true
@@ -240,7 +240,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -310,8 +309,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Li]
-  first_name: [Yadong]
+  last_name: [Yu]
+  first_name: [Changqian]
 
   style: apa
   locale: en
@@ -335,12 +334,10 @@ scholar:
   group_order: descending
 
 # Display different badges withs stats for your publications
-# Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
-  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
+  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  #inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
@@ -532,13 +529,13 @@ third_party_libraries:
     version: "1.9.4"
   mathjax:
     integrity:
-      js: "sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="
+      js: "sha256-rjmgmaB99riUNcdlrDtcAiwtLIojSxNyUFdl+Qh+rB4="
     local:
       fonts: "output/chtml/fonts/woff-v2/"
     url:
       fonts: "https://cdn.jsdelivr.net/npm/mathjax@{{version}}/es5/output/chtml/fonts/woff-v2/"
-      js: "https://cdn.jsdelivr.net/npm/mathjax@{{version}}/es5/tex-mml-chtml.js"
-    version: "3.2.2"
+      js: "https://cdn.jsdelivr.net/npm/mathjax@{{version}}/es5/tex-mml-chtml.min.js"
+    version: "3.2.0"
   masonry:
     integrity:
       js: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
