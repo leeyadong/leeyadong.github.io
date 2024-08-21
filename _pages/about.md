@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an incoming Ph.D. student in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/). I am a group member of the [Networking and Emerging Wireless Technologies (NEWT) Lab](https://newtlab.ece.uw.edu/), advised by [Prof. Akshay Gadre](https://www.akshaygadre.com/).
+I am an incoming Ph.D. student in the Department of Electrical & Computer Engineering at the **University of Washington**. I am a group member of the [Networking and Emerging Wireless Technologies (NEWT) Lab](https://newtlab.ece.uw.edu/), advised by [Prof. Akshay Gadre](https://www.akshaygadre.com/).
 
-Previously, I was a group member of the [USTC IP Lab](https://ustc-ip-lab.github.io/), advised by [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ), where I focused on developing human-centric sensing systems with wireless devices. 
+Previously, my research journey began at the [Intelligent Perception (IP) Lab](https://ustc-ip-lab.github.io/) of the **University of Science and Technology of China**. Under the guidance of [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ), I focused on developing high-resolution and robust human-centric sensing systems with wireless devices. 
