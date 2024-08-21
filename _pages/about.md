@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  First-year ECE Ph.D. Student@[University of Washington](https://www.washington.edu/), yadongli@uw.edu
+subtitle:  First-year ECE Ph.D. Student@University of Washington, yadongli@uw.edu
 
 profile:
   align: left
