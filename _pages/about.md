@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  First-year ECE Ph.D. Student@University of Washington Email: yadongli@uw.edu #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  First-year ECE Ph.D. Student@University of Washington Email: yadongli(At)uw(DOT)edu #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
