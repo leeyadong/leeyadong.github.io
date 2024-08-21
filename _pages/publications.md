@@ -2,11 +2,13 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en">Google Scholar</a> for more recent papers.
 nav: true
 nav_order: 2
 ---
 
+<p>
+Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en">Google Scholar</a> for more recent papers.
+</p>
 
 ## 📜 Peer-reviewed
 
