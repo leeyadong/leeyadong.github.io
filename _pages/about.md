@@ -5,7 +5,7 @@ permalink: /
 subtitle:  First-year ECE Ph.D. Student@University of Washington #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
