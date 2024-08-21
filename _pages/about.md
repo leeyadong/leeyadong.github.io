@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:  First-year ECE Ph.D. Student@University of Washington #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -14,7 +14,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am an incoming Ph.D. student in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/). I am a group member of the [Networking and Emerging Wireless Technologies (NEWT) Lab](https://newtlab.ece.uw.edu/), advised by [Prof. Akshay Gadre](https://www.akshaygadre.com/).
