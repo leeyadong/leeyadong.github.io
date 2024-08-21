@@ -27,12 +27,21 @@ table {
   td,
   th {
     font-size: 1rem;
-    padding: 1px 1rem 1px 0;
   }
+}
 
-  th {
-    font-weight: bold;
-  }
+.news table th {
+  font-size: 0.9rem;
+
+}
+.news table td {
+  font-size: 1.0rem;
+
+}
+.news table th,
+.news table td {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 a,
@@ -72,10 +81,7 @@ blockquote {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
 
-    em,
-    li,
-    p,
-    strong {
+    p {
       color: var(--global-tip-block-text);
     }
 
@@ -93,10 +99,7 @@ blockquote {
     border-color: var(--global-warning-block);
     background-color: var(--global-warning-block-bg);
 
-    em,
-    li,
-    p,
-    strong {
+    p {
       color: var(--global-warning-block-text);
     }
 
@@ -114,10 +117,7 @@ blockquote {
     border-color: var(--global-danger-block);
     background-color: var(--global-danger-block-bg);
 
-    em,
-    li,
-    p,
-    strong {
+    p {
       color: var(--global-danger-block-text);
     }
 
@@ -692,6 +692,11 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
+        z-index: -1;
+        position: absolute; /* 设置 abbr 和 preview 为绝对定位 */
+        top: 0.1rem; /* 从容器顶部开始 */
+        margin-left: 5px;
+        margin-bottom: 5px;
       }
 
       .abbr {
@@ -701,6 +706,10 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
+
+          div {
+            color: white;
+          }
 
           a {
             color: white;
@@ -1159,8 +1168,7 @@ ninja-keys::part(ninja-input-wrapper) {
   width: 100%;
 }
 
-.newsletter-form-input,
-.bibsearch-form-input {
+.newsletter-form-input {
   color: var(--global-newsletter-text-color);
   background: var(--global-newsletter-bg-color);
   border: 1px solid var(--global-newsletter-text-color);
@@ -1297,10 +1305,4 @@ ninja-keys::part(ninja-input-wrapper) {
   .arrow:before {
     border-bottom-color: var(--global-divider-color);
   }
-}
-
-// highlight-search-term
-::highlight(search) {
-  background-color: var(--global-theme-color);
-  color: var(--global-text-color);
 }
