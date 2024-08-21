@@ -8,6 +8,8 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+      <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
 
 
 news: true # includes a list of news items
