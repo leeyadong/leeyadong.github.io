@@ -22,7 +22,7 @@ I am an incoming Ph.D. student in the Department of Electrical & Computer Engine
 Previously, my research journey began at the [Intelligent Perception (IP) Lab](https://ustc-ip-lab.github.io/) at the **University of Science and Technology of China (USTC)**. Under the guidance of [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ), we focused on developing **human-centric wireless sensing** systems. Intending to enhance the sensing resolution and robustness, our work fosters innovation across diverse applications：
 
 - Domain-independent human gesture sensing ([TMC'22](https://ieeexplore.ieee.org/abstract/document/9894724)), localization ([UbiComp'24](https://dl.acm.org/doi/abs/10.1145/3631437)), and tracking ([IJCAI'24](https://www.ijcai.org/proceedings/2024/674)).  
-- Motion-robust respiration sensing ([TMC'24](https://ieeexplore.ieee.org/document/10379134)) and long-term caidic monitoring ([arXiv'24](https://www.researchsquare.com/article/rs-4456442/v1)).  
+- Motion-robust respiration sensing ([TMC'24](https://ieeexplore.ieee.org/document/10379134)) and long-term cardiac monitoring ([arXiv'24](https://www.researchsquare.com/article/rs-4456442/v1)).  
 - Super-resolution and handheld SAR imaging with physical models ([Comms Eng'24](https://www.nature.com/articles/s44172-023-00156-2)) and machine learning  ([ICASSP'24](https://ieeexplore.ieee.org/document/10447461)).
 
 Motivated by the lack of datasets in wireless AI, we have also released several **large-scale benchmarks** for a variety of signals and applications, including:  
