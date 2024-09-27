@@ -26,4 +26,5 @@ Invited Reviewer for:
  - IEEE Transactions on Mobile Computing (TMC)
  - IEEE Internet of Things Journal (IoTJ)
  - IEEE Sensors Journal
+ - IEEE ICSIDP 2024
  - IEEE CCECE 2024
