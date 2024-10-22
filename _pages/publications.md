@@ -40,15 +40,19 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
   Tianyu Zhang, Dongheng Zhang, Guanzhong Wang, **Yadong Li**, Yang Hu, Qibin Sun, Yan Chen  
   *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies (**IMWUT/UbiComp**), 2024*
 
+- [SCL-Fall: Reliable Fall Detection Using mmWave Radar with Supervised Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10716775)  
+  Wenxuan Li, Dongheng Zhang, **Yadong Li**, Ruiyuan Song, Yang Hu, Qibin Sun, Yan Chen  
+  *IEEE Journal of Selected Areas in Sensor (**JSAS**), 2024.*
+
 - [DiffRadar: High-quality mmWave Radar Perception with Diffusion Probabilistic Model](https://ieeexplore.ieee.org/document/10448324)  
-  Jincheng Wu, Ruixu Geng, **Yadong Li,** Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen 
+  Jincheng Wu, Ruixu Geng, **Yadong Li,** Dongheng Zhang, Zhi Lu, Yang Hu, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
 
 - [SimFall: A Data Generator For RF-based Fall Detection](https://ieeexplore.ieee.org/document/10446234)  
   Jiamu Li, Dongheng Zhang, Qi Chen, **Yadong Li**, Jianyang Wang, Wenxuan Li, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
     
-- [Enabling Orientation-Free mmWave-based Vital Sign Sensing with Multi-domain Signal Analysis](https://ieeexplore.ieee.org/document/10448323)  
+- [Enabling Orientation-Free mmWave-based Vital Sign Sensing with Multi-domain Signal Analysis](https://ieeexplore.ieee.org/document/10448323)    
   Hanqin Gong, Dongheng Zhang, Jinbo Chen, **Yadong Li,** Guixin Xu, Yuqin Yuan, Yang Hu, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
     
@@ -64,10 +68,10 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
   Wenxuan Li, Dongheng Zhang, **Yadong Li**, Zhi Wu, Jinbo Chen, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2022*
     
-- [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals](https://ieeexplore.ieee.org/document/10001175)  
+- [DI-Gesture: Domain-Independent and Real-Time Gesture Recognition with Millimeter-Wave Signals](https://ieeexplore.ieee.org/document/10001175)   
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Global Communications Conference (**GLOBECOM**), 2022.*
-    
+
 
 ## 📜 Under review
 
@@ -83,15 +87,8 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
   Ruixu Geng, **Yadong Li,** Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen  
   *submitted to IEEE Transactions on Image Processing.*
     
-- Automated Discovery of Natural Point Targets for mmWave Radar Self-Calibration  
-  Ruixu Geng, **Yadong Li,** Dongheng Zhang, Pengcheng Huang, Binquan Wang, Binbin Zhang, Zhi Lu, Yang Hu, Yan Chen  
-  *submitted to Communications Engineering.*
-    
 - Learning-based Tracking-Before-Detect for Unconstrained Indoor Human Tracking using RF signal                   
   Zhi Wu, Dongheng Zhang, Zixing Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, **Yadong Li**, Yang Hu, Yan Chen  
   *submitted to IEEE Transactions on Mobile Computing.*
     
-- SCL-Fall: Reliable Fall Detection Using mmWave Radar with Supervised Contrastive Learning  
-  Wenxuan Li, Dongheng Zhang, **Yadong Li**, Ruiyuan Song, Yang Hu, Qibin Sun, Yan Chen  
-  *submitted to IEEE Journal of Selected Areas in Sensors.*
 
