@@ -12,7 +12,7 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
 
 ## 📜 Peer-reviewed
 
-- [IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals]  
+- [IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals]()    
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing  (**TMC**), 2024.*
 
