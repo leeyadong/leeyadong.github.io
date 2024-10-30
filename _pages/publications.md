@@ -12,6 +12,10 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
 
 ## 📜 Peer-reviewed
 
+- [IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals]  
+  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
+  *IEEE Transactions on Mobile Computing  (**TMC**), 2024.*
+
 -  [A High-resolution Handheld Millimeter-wave Imaging System with Phase Error Estimation and Compensation](https://www.nature.com/articles/s44172-023-00156-2)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Zhi Lu, Zhi Wu, Yang Hu, Qibin Sun, Yan Chen  
   *Communications Engineering (**Comms. Eng.**), 2024*
@@ -74,10 +78,6 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
 
 
 ## 📜 Under review
-
-- IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals  
-  **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
-  *submitted to IEEE Transactions on Mobile Computing.*
     
 - Monitoring Long-term Cardiac Activity with Contactless Radio Frequency Signals  
   Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Zhi Lu, Jinbo Chen, Haoyu Wang, Fang Zhou, Yu Pu, Yang Hu, Likun Ma, Qibin Sun, Yan Chen  
