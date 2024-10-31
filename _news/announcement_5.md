@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-IFNet has been accepted by IEEE TMC. [Code and datasetof IFNet](https://github.com/leeyadong/IFNet) will be available soon.
+IFNet has been accepted by IEEE TMC. [Code and dataset of IFNet](https://github.com/leeyadong/IFNet) will be available soon.
 
