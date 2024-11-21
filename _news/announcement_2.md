@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper about handheld mmWave imaging was accepted by [Communications Engineering](https://www.nature.com/commseng/), a new journal from Nature Portfolio.
+One paper about handheld mmWave imaging was accepted by [Communications Engineering](https://www.nature.com/commseng/).
