@@ -79,9 +79,7 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
 
 ## 📜 Under review
     
-- Monitoring Long-term Cardiac Activity with Contactless Radio Frequency Signals  
-  Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Zhi Lu, Jinbo Chen, Haoyu Wang, Fang Zhou, Yu Pu, Yang Hu, Likun Ma, Qibin Sun, Yan Chen  
-  *submitted to Nature Communications.*
+
     
 - DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud  
   Ruixu Geng, **Yadong Li,** Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen  
