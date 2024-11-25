@@ -27,7 +27,7 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
        
 - [DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud]()  
   Ruixu Geng, **Yadong Li,** Dongheng Zhang, Jincheng Wu, Yating Gao, Yang Hu, Yan Chen  
-  *IEEE Transactions on Image Processing, 2024.*
+  *IEEE Transactions on Image Processing （**TIP**）, 2024.*
    
 - [IFNet: Imaging and Focusing Network for Handheld mmWave Devices](https://ieeexplore.ieee.org/document/10447461)  
   **Yadong Li**, Dongheng Zhang, Ruixu Geng, Jincheng Wu, Yang Hu, Qibin Sun, Yan Chen  
