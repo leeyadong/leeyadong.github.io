@@ -26,6 +26,7 @@ Invited Reviewer for:
  - IEEE Journal on Selected Areas in Communications (JSAC)
  - IEEE Transactions on Mobile Computing (TMC)
  - IEEE Internet of Things Journal (IoTJ)
+ - IEEE Internet of Things Magazine (IoTM)
  - IEEE Sensors Journal
  - IEEE ICSIDP 2024
  - IEEE CCECE 2024
