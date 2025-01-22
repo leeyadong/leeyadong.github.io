@@ -10,7 +10,14 @@ nav_order: 2
 Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en">Google Scholar</a> for more recent papers.
 </p>
 
-## 📜 Peer-reviewed
+- [RFMamba: Frequency-Aware State Space Model for RF-Based Human-Centric Perception]()  
+  Rui Zhang, Ruixu Geng, **Yadong Li**, Ruiyuan Song, Hanqin Gong, Dongheng Zhang, Yang Hu, Yan Chen  
+  *International Conference on Learning Representations (**ICLR**), 2025.*
+  
+- [Learning-based Tracking-Before-Detect for Unconstrained Indoor Human Tracking using RF signal](https://ieeexplore.ieee.org/abstract/document/10841474)                   
+  Zhi Wu, Dongheng Zhang, Zixing Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, **Yadong Li**, Yang Hu, Yan Chen  
+  *IEEE Transactions on Mobile Computing  (**TMC**), 2025.*
+    
 
 - [Monitoring Long-term Cardiac Activity with Contactless Radio Frequency Signals](https://www.nature.com/articles/s41467-024-55061-9)    
   Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Zhi Lu, Jinbo Chen, Haoyu Wang, Fang Zhou, Yu Pu, Yang Hu, Likun Ma, Qibin Sun, Yan Chen  
@@ -68,10 +75,14 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
 - [Enabling Orientation-Free mmWave-based Vital Sign Sensing with Multi-domain Signal Analysis](https://ieeexplore.ieee.org/document/10448323)    
   Hanqin Gong, Dongheng Zhang, Jinbo Chen, **Yadong Li,** Guixin Xu, Yuqin Yuan, Yang Hu, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024*
-    
+
 - [Unsupervised Domain Adaptation for RF-Based Gesture Recognition](https://ieeexplore.ieee.org/abstract/document/10147269)  
   Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen  
   *IEEE Internet of Things Journal (**IoTJ**), 2023.*
+  	
+- [Robust Respiration Sensing with WiFi](https://ieeexplore.ieee.org/document/10118809)  
+  Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan chen  
+  *IEEE Wireless Communications and Networking Conference (***WCNC**)*
    
  - [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
@@ -86,10 +97,6 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
   *IEEE Global Communications Conference (**GLOBECOM**), 2022.*
 
 
-## 📜 Under review
   
-- Learning-based Tracking-Before-Detect for Unconstrained Indoor Human Tracking using RF signal                   
-  Zhi Wu, Dongheng Zhang, Zixing Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, **Yadong Li**, Yang Hu, Yan Chen  
-  *submitted to IEEE Transactions on Mobile Computing.*
-    
+
 
