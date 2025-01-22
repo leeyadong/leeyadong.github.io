@@ -4,6 +4,24 @@
 
 // Typography
 
+<style>
+  :root {
+    --list-style: "[" decimal "] "; /* 自定义编号格式 */
+  }
+  .dynamic-list {
+    list-style: none;
+    counter-reset: list-counter;
+  }
+  .dynamic-list li {
+    counter-increment: list-counter;
+  }
+  .dynamic-list li::before {
+    content: var(--list-style, counter(list-counter) ". ");
+    color: #007BFF;
+    margin-right: 5px;
+  }
+</style>
+
 p,
 h1,
 h2,
