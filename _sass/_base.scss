@@ -5,20 +5,24 @@
 // Typography
 
 <style>
-  :root {
-    --list-style: "[" decimal "] "; /* 自定义编号格式 */
+  .default-list {
+    list-style-type: decimal; /* 默认数字编号 */
   }
-  .dynamic-list {
-    list-style: none;
-    counter-reset: list-counter;
+  .alpha-list {
+    list-style-type: upper-alpha; /* 大写字母编号 */
   }
-  .dynamic-list li {
-    counter-increment: list-counter;
+  .roman-list {
+    list-style-type: upper-roman; /* 大写罗马数字编号 */
   }
-  .dynamic-list li::before {
-    content: var(--list-style, counter(list-counter) ". ");
-    color: #007BFF;
-    margin-right: 5px;
+  .bracket-list {
+    list-style-type: none; /* 无编号 */
+    counter-reset: custom-counter;
+  }
+  .bracket-list li {
+    counter-increment: custom-counter;
+  }
+  .bracket-list li::before {
+    content: "[" counter(custom-counter) "] ";
   }
 </style>
 
