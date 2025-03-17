@@ -20,13 +20,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a 1st year Ph.D. student in the Department of Electrical & Computer Engineering at the **University of Washington (UW)**. As a member of the [Networking and Emerging Wireless Technologies (NEWT) Lab](https://newtlab.ece.uw.edu/) and under the guidance of [Prof. Akshay Gadre](https://www.akshaygadre.com/), I am particularly interested in developing **wireless technologies for autonomous systems**, aimed at creating autonomous robots that operate reliably in challenging environments, as well as empowering wireless sensing with greater mobility and coverage. 
+I am a 1st year Ph.D. student in the Department of Electrical & Computer Engineering at the **University of Washington (UW)**. As a member of the [Networking and Emerging Wireless Technologies (NEWT) Lab](https://newtlab.ece.uw.edu/) and under the guidance of [Prof. Akshay Gadre](https://www.akshaygadre.com/), I am particularly interested in **Millimeter-wave Imaging and Wireless Sensing**. 
 <!-- am particularly interested in developing **intelligent wireless technologies for robotics**, aimed at creating autonomous robots that operate reliably in challenging environments, as well as empowering wireless sensing with greater mobility and coverage.-->
 
 Previously, my research journey began at the [Intelligent Perception (IP) Lab](https://ustc-ip-lab.github.io/) at the **University of Science and Technology of China (USTC)**. Under the guidance of [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ), we focused on developing **human-centric wireless sensing** systems. Intending to enhance the sensing resolution and robustness, our work fosters innovation across diverse applications：
 
 - **Computational Imaging**: Phase compensation for handheld SAR imaging with physical models ([Comms Eng'24](https://www.nature.com/articles/s44172-023-00156-2)) and machine learning  ([TMC'24](https://ieeexplore.ieee.org/document/10447461)).
-- **Motion Sensing**: Domain-independent human gesture sensing ([TMC'22](https://ieeexplore.ieee.org/abstract/document/9894724)), localization ([UbiComp'24](https://dl.acm.org/doi/abs/10.1145/3631437)), and tracking ([IJCAI'24](https://www.ijcai.org/proceedings/2024/674)).  
+- **Motion Sensing**: Domain-independent gesture sensing ([TMC'22](https://ieeexplore.ieee.org/abstract/document/9894724)), localization ([UbiComp'24](https://dl.acm.org/doi/abs/10.1145/3631437)), and tracking ([IJCAI'24](https://www.ijcai.org/proceedings/2024/674)).  
 - **Mobile Health**: Long-term RF cardiac monitoring ([NatCommun'24](https://www.researchsquare.com/article/rs-4456442/v1)) and motion-robust respiration sensing ([TMC'24](https://ieeexplore.ieee.org/document/10379134)).
 
 
