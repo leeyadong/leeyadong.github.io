@@ -22,7 +22,10 @@ nav_order: 5
 - (2019) RoboCup@Home China Open, Champion
 
 ### Services
-Invited Reviewer for:
+
+#### Invited Reviewer for:
+ - MobiCom'25 Artifact Evaluation
+ - ACM MultiMedia 2025
  - IEEE Journal on Selected Areas in Communications (JSAC)
  - IEEE Transactions on Mobile Computing (TMC)
  - IEEE Internet of Things Journal (IoTJ)
@@ -30,3 +33,7 @@ Invited Reviewer for:
  - IEEE Sensors Journal
  - IEEE ICSIDP 2024
  - IEEE CCECE 2024
+
+### Teaching Assistant
+ - UW EE241: Programming for Signal and Information Processing Applications (Spring 25)
+
