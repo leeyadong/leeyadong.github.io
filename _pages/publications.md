@@ -10,7 +10,11 @@ nav_order: 2
 Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en">Google Scholar</a> for more recent papers.
 </p>
 
-- [RFMamba: Frequency-Aware State Space Model for RF-Based Human-Centric Perception]()  
+- [OSense: Omni-Directional Heartbeat Sensing With Radio Signal](https://ieeexplore.ieee.org/abstract/document/10955686)  
+  Hanqin Gong, Jinbo Chen, Guixin Xu, Jianwen Tong, **Yadong Li**, Dongheng Zhang, Yang Hu, Yan Chen  
+  *IEEE Internet of Things Journal (**IoTJ**), 2025.*
+  
+- [RFMamba: Frequency-Aware State Space Model for RF-Based Human-Centric Perception](https://openreview.net/forum?id=lG9fjBLb6d)  
   Rui Zhang, Ruixu Geng, **Yadong Li**, Ruiyuan Song, Hanqin Gong, Dongheng Zhang, Yang Hu, Yan Chen  
   *International Conference on Learning Representations (**ICLR**), 2025.*
   
