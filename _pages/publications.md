@@ -9,7 +9,10 @@ nav_order: 2
 <p>
 Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en">Google Scholar</a> for more recent papers.
 </p>
-
+- [Attacking mmWave Imaging with Neural Meta-Material Rendering](https://ieeexplore.ieee.org/document/11007126)  
+  Ruixu Geng, Dongheng Zhang, **Yadong Li**, Zhi Wu, Jiamu Li, Qi Chen, Yang Hu, Yan Chen  
+  *IEEE Transactions on Information Forensics and Security (**TIFS**), 2025.*
+  
 - [OSense: Omni-Directional Heartbeat Sensing With Radio Signal](https://ieeexplore.ieee.org/abstract/document/10955686)  
   Hanqin Gong, Jinbo Chen, Guixin Xu, Jianwen Tong, **Yadong Li**, Dongheng Zhang, Yang Hu, Yan Chen  
   *IEEE Internet of Things Journal (**IoTJ**), 2025.*
