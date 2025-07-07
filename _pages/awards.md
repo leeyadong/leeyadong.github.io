@@ -28,6 +28,7 @@ nav_order: 5
  - ACM MultiMedia 2025
  - IEEE Journal on Selected Areas in Communications (JSAC)
  - IEEE Transactions on Mobile Computing (TMC)
+ - IEEE Transactions on Image Processing (TIP)
  - IEEE Internet of Things Journal (IoTJ)
  - IEEE Internet of Things Magazine (IoTM)
  - IEEE Sensors Journal
