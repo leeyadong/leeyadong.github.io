@@ -11,7 +11,7 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
 </p>
 
 - [UltraPoser: Pushing the Limits of IMU-based Full-Body Pose Estimation with Ultrasound Sensing on Consumer Wearables]()  
-  **Yadong Li\***, Shuning Wang*, Yongjian Fu, Justin Chen, Xingyu Chen, Ju Ren, Xinyu Zhang, Akshay Gadre, Ke Sun  
+  **Yadong Li\***, Shuning Wang\*, Yongjian Fu, Justin Chen, Xingyu Chen, Ju Ren, Xinyu Zhang, Akshay Gadre, Ke Sun  
   *ACM Symposium on User Interface Software and Technology (**UIST**), 2025.*  
 
 - [Attacking mmWave Imaging with Neural Meta-Material Rendering](https://ieeexplore.ieee.org/document/11007126)    
