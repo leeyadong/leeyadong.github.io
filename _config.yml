@@ -355,6 +355,7 @@ filtered_bibtex_keywords:
     html,
     pdf,
     dataset,
+    demo,
     poster,
     preview,
     selected,
