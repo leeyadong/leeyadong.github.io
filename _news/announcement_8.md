@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**UltraPoser** has been accepted to **ACM UIST 2025** The code and dataset will be released soon. Huge thanks to all the amazing collaborating advisors and students for their support!
+**UltraPoser** has been accepted to **ACM UIST 2025** The [code and dataset](https://github.com/leeyadong/UltraPoser) will be released soon. Huge thanks to all the amazing collaborating advisors and students!
