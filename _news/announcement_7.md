@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Code for all my first-authored papers has been released!** Check [my github page](https://github.com/leeyadong) for more information.
+**Code for all my first-authored papers has been released!** Check out [my github page](https://github.com/leeyadong) for more information.
