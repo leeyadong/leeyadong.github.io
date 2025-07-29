@@ -20,20 +20,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a 1st year Ph.D. student in the Department of Electrical & Computer Engineering at the **University of Washington (UW)**. As a member of the [Networking and Emerging Wireless Technologies (NEWT) Lab](https://newtlab.ece.uw.edu/) and under the guidance of [Prof. Akshay Gadre](https://www.akshaygadre.com/), I am particularly interested in **Millimeter-wave Imaging and Wireless Sensing**. 
-<!-- am particularly interested in developing **intelligent wireless technologies for robotics**, aimed at creating autonomous robots that operate reliably in challenging environments, as well as empowering wireless sensing with greater mobility and coverage.-->
+I am a 1st year Ph.D. student in the Department of Electrical & Computer Engineering at the **University of Washington (UW)**, advised by [Prof. Akshay Gadre](https://www.akshaygadre.com/). Previously, my research journey began at the **University of Science and Technology of China (USTC)**, working with [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ).
 
-Previously, my research journey began at the [Intelligent Perception (IP) Lab](https://ustc-ip-lab.github.io/) at the **University of Science and Technology of China (USTC)**. Under the guidance of [Prof. Qibin Sun](https://scholar.google.com/citations?hl=en&user=bPLvsSAAAAAJ) and [Prof. Yan Chen](https://scholar.google.com/citations?hl=en-EN&user=MVOCn1AAAAAJ), we focused on developing **human-centric wireless sensing** systems. Intending to enhance the sensing resolution and robustness, our work fosters innovation across diverse applications：
+My research focuses on **Millimeter-wave Imaging and Wireless Sensing** using signal processing, machine learning, and system design:
 
-- **Computational Imaging**: Phase compensation for handheld SAR imaging with physical models ([Comms Eng'24](https://www.nature.com/articles/s44172-023-00156-2)) and machine learning  ([TMC'24](https://ieeexplore.ieee.org/document/10447461)).
-- **Motion Sensing**: Domain-independent gesture sensing ([TMC'22](https://ieeexplore.ieee.org/abstract/document/9894724)), localization ([UbiComp'24](https://dl.acm.org/doi/abs/10.1145/3631437)), and tracking ([IJCAI'24](https://www.ijcai.org/proceedings/2024/674)).  
-- **Mobile Health**: Long-term RF cardiac monitoring ([NatCommun'24](https://www.researchsquare.com/article/rs-4456442/v1)) and motion-robust respiration sensing ([TMC'24](https://ieeexplore.ieee.org/document/10379134)).
+- developing advanced 3D high-resolution imaging systems that enable non-line-of-sight perception of the physical world through low-cost, mobile mmWave devices: [IFNet](https://ieeexplore.ieee.org/abstract/document/10740682) (TMC'24), [PSF-SAR](https://www.nature.com/articles/s44172-023-00156-2) (CommsEng'24), [mmHide](https://ieeexplore.ieee.org/document/11007126) (TIFS'25), [DREAM-PCD](https://ieeexplore.ieee.org/abstract/document/10794585) (TIP'24).
 
+- designing intelligent, non-invasive sensing systems that leverage wireless signals for health monitoring, motion tracking, and interactive applications: [UltraPoser]() (UIST'25), [RF-Mamba](https://openreview.net/forum?id=lG9fjBLb6d) (ICLR'25), [RF-HRV](https://www.nature.com/articles/s41467-024-55061-9) (NatureComms'24), [RLoc](https://dl.acm.org/doi/abs/10.1145/3631437) (UbiComp'24).
 
-Motivated by the lack of datasets in wireless AI, we have also released several **large-scale benchmarks** for a variety of signals and applications, including:  
+Motivated by the lack of benchmarks in wireless AI, my co-authors and I have released datasets and code for diverse signals and applications, which have been accessed by researchers from **over 100 institutions across 12 countries**:  
 - [IFNet](https://github.com/leeyadong/IFNet): Handheld mmWave SAR imaging dataset (10400 samples from 26 objects and 200 handheld scanning trajectories).
 - [MCD-Gesture](https://github.com/leeyadong/cross_domain_gesture_dataset): Cross-domain mmWave gesture dataset (24050 instances from 25 users, 6 rooms, and 5 locations). 
 - [H-WILD](https://github.com/H-WILD/human_held_device_wifi_indoor_localization_dataset): Human-held device WiFi localization dataset (120,000 frames from 10 volunteers across 4 rooms).
 - [RadarEyes](https://github.com/ruixv/RadarEyes): Multi-modal point cloud dataset (1,000,000 frames of radar and LiDAR data from 300 rooms).
-- [RF-UNIT](): RF-based unconstrained indoor human tracking dataset (4,000,000 radar heatmaps from 6 rooms and 19 people).
-  
+
