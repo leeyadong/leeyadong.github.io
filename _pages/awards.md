@@ -36,5 +36,6 @@ nav_order: 5
  - IEEE CCECE 2024
 
 ### Teaching Assistant
+ - UW EE344A: Data-Driven Modeling and Machine Learning (Winter 26)
  - UW EE241: Programming for Signal and Information Processing Applications (Spring 25)
 
