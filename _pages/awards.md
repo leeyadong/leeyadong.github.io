@@ -25,6 +25,7 @@ nav_order: 5
 
 #### Invited Reviewer for:
  - MobiCom'25 Artifact Evaluation
+ - ACM UbiComp/IMWUT 2026
  - ACM MultiMedia 2025
  - IEEE Journal on Selected Areas in Communications (JSAC)
  - IEEE Transactions on Mobile Computing (TMC)
