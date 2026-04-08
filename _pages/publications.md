@@ -10,7 +10,37 @@ nav_order: 2
 Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en">Google Scholar</a> for more recent papers.
 </p>
 
-- [UltraPoser: Pushing the Limits of IMU-based Full-Body Pose Estimation with Ultrasound Sensing on Consumer Wearables]()  
+## 2026
+
+- [TwinFocus: Autofocus for Handheld mmWave SAR Imaging via Physical and Digital Twin References]()  
+  **Yadong Li**, Xinghua Sun, Qiancheng Li, Akshay Gadre  
+  *ACM International Conference on Mobile Systems, Applications, and Services (**MobiSys**), 2026.*
+
+- [VRCLIP: Multimodal Canonical Correlation Alignment for CLIP-Driven Vision-Radio Person Re-Identification]()  
+  Rui Zhang, Yaqi Wang, **Yadong Li**, Ruixu Geng, Jianyang Wang, Qijun Ying, Dongheng Zhang, Yang Hu, and Yan Chen  
+  *In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.*
+
+
+- [Multi-Scale Signal Quality Assessment for Reliable RF-Based Physiological Sensing]()  
+  Hanqin Gong, **Yadong Li**, Fulong Liu, Yuqian Shi, Jinbo Chen, Yi Wang, Dongheng Zhang, Yang Hu, Yan Chen  
+  *Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Technologies (**IMWUT/UbiComp**), 2026.*
+  
+- [Non-Cooperative Localization via WiFi Traffic Sniffing]()  
+  Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Tianyu Zhang, Liquan Fang, Shuai Yang, Yan Chen  
+  *IEEE Transactions on Mobile Computing (**TMC**), 2026.*
+  
+- [Automatic Phase Calibration for High-resolution mmWave Sensing via Ambient Radio Anchors](https://ieeexplore.ieee.org/abstract/document/11410094)  
+  Ruixu Geng, **Yadong Li**, Dongheng Zhang, Pengcheng Huang, Binquan Wang, Binbin Zhang, Zhi Lu, Yang Hu, Yan Chen  
+  *IEEE Transactions on Mobile Computing (**TMC**), 2026.*
+
+- [UniTHP: Advancing Unified Representation Learning for Through-Wall Human-Centric Perception](https://ieeexplore.ieee.org/document/11442728)  
+  Rui Zhang, **Yadong Li**, Ruiyuan Song, Hanqin Gong, Ruixu Geng, Binquan Wang, Dongheng Zhang, Yang Hu, Yan Chen  
+  *IEEE Transactions on Multimedia (**TMM**), 2026.*  
+
+
+## 2025
+
+- [UltraPoser: Pushing the Limits of IMU-based Full-Body Pose Estimation with Ultrasound Sensing on Consumer Wearables](https://dl.acm.org/doi/10.1145/3746059.3747714)  
   **Yadong Li\***, Shuning Wang\*, Yongjian Fu, Justin Chen, Xingyu Chen, Ju Ren, Xinyu Zhang, Akshay Gadre, Ke Sun  
   *ACM Symposium on User Interface Software and Technology (**UIST**), 2025.*  
 
@@ -30,6 +60,7 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
   Zhi Wu, Dongheng Zhang, Zixing Shang, Yuqin Yuan, Hanqin Gong, Binquan Wang, Zhi Lu, **Yadong Li**, Yang Hu, Yan Chen  
   *IEEE Transactions on Mobile Computing  (**TMC**), 2025.*
     
+## 2024
 
 - [Monitoring Long-term Cardiac Activity with Contactless Radio Frequency Signals](https://www.nature.com/articles/s41467-024-55061-9)    
   Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Zhi Lu, Jinbo Chen, Haoyu Wang, Fang Zhou, Yu Pu, Yang Hu, Likun Ma, Qibin Sun, Yan Chen  
@@ -88,6 +119,7 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
   Hanqin Gong, Dongheng Zhang, Jinbo Chen, **Yadong Li,** Guixin Xu, Yuqin Yuan, Yang Hu, Yan Chen  
   *IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2024.*
 
+## 2023
 - [Unsupervised Domain Adaptation for RF-Based Gesture Recognition](https://ieeexplore.ieee.org/abstract/document/10147269)  
   Bin-Bin Zhang, Dongheng Zhang, **Yadong Li**, Yang Hu, Yan Chen  
   *IEEE Internet of Things Journal (**IoTJ**), 2023.*
@@ -95,7 +127,8 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
 - [Robust Respiration Sensing with WiFi](https://ieeexplore.ieee.org/document/10118809)  
   Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan chen  
   *IEEE Wireless Communications and Networking Conference (**WCNC**), 2023.*
-   
+
+ ## 2022
  - [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
   *IEEE Transactions on Mobile Computing (**TMC**), 2022.*
