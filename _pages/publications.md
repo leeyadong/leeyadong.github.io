@@ -128,7 +128,7 @@ Please see <a href="https://scholar.google.com/citations?user=iZWM3pAAAAAJ&hl=en
   Xuecheng Xie, Dongheng Zhang, **Yadong Li**, Jinbo Chen, Yang Hu, Qibin Sun, Yan chen  
   *IEEE Wireless Communications and Networking Conference (**WCNC**), 2023.*
 
- ## 2022
+## 2022
  
  - [Towards Domain-Independent and Real-Time Gesture Recognition Using mmWave Signal](https://ieeexplore.ieee.org/abstract/document/9894724)  
   **Yadong Li**, Dongheng Zhang, Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, Qibin Sun, Yan Chen  
