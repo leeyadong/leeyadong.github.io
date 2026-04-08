@@ -1,1 +1,0 @@
-_news/announcement_10
