@@ -1,37 +1,32 @@
 {% if site.footer_fixed %}
-  <footer class="fixed-bottom" role="contentinfo">
+  <footer class="fixed-bottom">
     <div class="container mt-0">
-      &copy; Copyright {{ site.time | date: '%Y' }}
-      {{ site.first_name }}
-      {{ site.middle_name }}
-      {{ site.last_name }}. {{ site.footer_text }}
+      © Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
+      {{ site.footer_text }}
       {% if site.impressum_path %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        <a href="{{ site.impressum_path | relative_url }}">Impressum</a>.
       {% endif %}
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
-      <img src="https://badges.toozhao.com/badges/01J5TKNQ00RSFV0HB9XR2A2G7D/blue.svg" />
+      <span id="gc-total-visits" style="margin-left: 8px;"></span>
     </div>
   </footer>
 {% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
-    {% if site.newsletter.enabled %}
-      {% include scripts/newsletter.liquid %}
-    {% endif %}
-
+  {% if site.newsletter.enabled %}
+    {% include scripts/newsletter.liquid %}
+  {% endif %}
+  <footer class="sticky-bottom mt-5">
     <div class="container">
-      &copy; Copyright {{ site.time | date: '%Y' }}
-      {{ site.first_name }}
-      {{ site.middle_name }}
-      {{ site.last_name }}. {{ site.footer_text }}
+      © Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
+      {{ site.footer_text }}
       {% if site.impressum_path %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        <a href="{{ site.impressum_path | relative_url }}">Impressum</a>.
       {% endif %}
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
       {% endif %}
-      <img src="https://badges.toozhao.com/badges/01J5TKNQ00RSFV0HB9XR2A2G7D/blue.svg" />
+      <span id="gc-total-visits" style="margin-left: 8px;"></span>
     </div>
   </footer>
 {% endif %}
