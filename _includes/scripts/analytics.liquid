@@ -34,21 +34,27 @@
 
   <script>
     (function () {
-      function loadGoatCounterTotal() {
-        if (window.goatcounter && window.goatcounter.visit_count) {
-          window.goatcounter.visit_count({
-            append: "#gc-total-visits",
-            path: "TOTAL",
-            no_branding: true,
-            format: function (count) {
-              return " Total visits: " + count;
-            }
-          });
-        } else {
-          setTimeout(loadGoatCounterTotal, 200);
+      async function loadGoatCounterText() {
+        const el = document.getElementById("gc-total-visits");
+        if (!el) return;
+
+        try {
+          const response = await fetch("https://{{ site.goatcounter_code }}.goatcounter.com/counter/TOTAL.json");
+          if (!response.ok) throw new Error("Failed to fetch counter");
+
+          const data = await response.json();
+          const count = data.count ?? 0;
+          el.textContent = " · Views: " + count;
+        } catch (err) {
+          console.error("GoatCounter text counter error:", err);
         }
       }
-      loadGoatCounterTotal();
+
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", loadGoatCounterText);
+      } else {
+        loadGoatCounterText();
+      }
     })();
   </script>
 {% endif %}
