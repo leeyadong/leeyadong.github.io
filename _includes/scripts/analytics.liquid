@@ -27,33 +27,6 @@
 {% endif %}
 
 {% if site.enable_goatcounter %}
-  <script
-    data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count"
-    async
-    src="//gc.zgo.at/count.js"
-  ></script>
-  <script>
-    (function () {
-      async function loadGoatCounterText() {
-        const el = document.getElementById("gc-visit-text");
-        if (!el) return;
-        try {
-          const response = await fetch(
-            "https://{{ site.goatcounter_code }}.goatcounter.com/counter/TOTAL.json",
-          );
-          if (!response.ok) throw new Error("Failed to fetch counter");
-          const data = await response.json();
-          const count = data.count ?? 0;
-          el.textContent = " · Views: " + count;
-        } catch (err) {
-          console.error("GoatCounter text counter error:", err);
-        }
-      }
-      if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", loadGoatCounterText);
-      } else {
-        loadGoatCounterText();
-      }
-    })();
-  </script>
+  <script data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js"></script>
 {% endif %}
