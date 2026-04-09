@@ -3,25 +3,20 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      window.dataLayer.push(arguments);
-    }
+    function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', '{{ site.google_analytics }}');
   </script>
 {% endif %}
+
 {% if site.enable_cronitor_analytics %}
-  <!-- Cronitor RUM -->
-  <script async src="https://rum.cronitor.io/script.js"></script>
-  <script>
-    window.cronitor =
-      window.cronitor ||
-      function () {
-        (window.cronitor.q = window.cronitor.q || []).push(arguments);
-      };
-    cronitor('config', { clientKey: '{{site.cronitor_analytics}}' });
-  </script>
+  <script
+    async
+    src="https://rum.cronitor.io/script.js"
+    data-cronitor-key="{{ site.cronitor_analytics }}"
+  ></script>
 {% endif %}
+
 {% if site.enable_pirsch_analytics %}
   <script
     defer
@@ -29,4 +24,31 @@
     id="pianjs"
     data-code="{{ site.pirsch_analytics }}"
   ></script>
+{% endif %}
+
+{% if site.enable_goatcounter %}
+  <script
+    data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count"
+    async
+    src="//gc.zgo.at/count.js"></script>
+
+  <script>
+    (function () {
+      function loadGoatCounterTotal() {
+        if (window.goatcounter && window.goatcounter.visit_count) {
+          window.goatcounter.visit_count({
+            append: "#gc-total-visits",
+            path: "TOTAL",
+            no_branding: true,
+            attr: {
+              style: "display:inline-block;font-size:0.9rem;"
+            }
+          });
+        } else {
+          setTimeout(loadGoatCounterTotal, 200);
+        }
+      }
+      loadGoatCounterTotal();
+    })();
+  </script>
 {% endif %}
