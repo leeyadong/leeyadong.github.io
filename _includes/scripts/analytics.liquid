@@ -40,8 +40,8 @@
             append: "#gc-total-visits",
             path: "TOTAL",
             no_branding: true,
-            attr: {
-              style: "display:inline-block;font-size:0.9rem;"
+            format: function (count) {
+              return " Total visits: " + count;
             }
           });
         } else {
