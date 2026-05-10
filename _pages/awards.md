@@ -8,6 +8,7 @@ nav_order: 5
 
 
 ### Awards
+- (2026) ACM MobiSys'26 Rising Stars (Oral)
 - (2024) Anhui/USTC Outstanding Postgraduate 
 - (2024) ICASSP'24 IEEE SPS Travel Grant Award
 - (2022) National Scholarship (Top 2%)
@@ -16,6 +17,7 @@ nav_order: 5
 - (2021) The Academic Star of ZZU (1 student in ZZU each year)
 
 ### Challenges
+- (2026) AFRL SDR University Challenge, Best Demo
 - (2020) RoboCup@Home China Open, Champion
 - (2019) IJCAI-2019 Eldercare Robot Design Challenge, Excellent Design Work
 - (2019) RoboCup@Home Asia-Pacific Invitational Tournament, Champion
