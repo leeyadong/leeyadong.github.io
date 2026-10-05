@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  Second-year ECE Ph.D. Student@University of Washington, yadongli@uw.edu
+subtitle:  Third-year ECE Ph.D. Candidate@University of Washington, yadongli@uw.edu
 
 profile:
   align: left
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a 2nd year Ph.D. student in the Department of Electrical & Computer Engineering at the **University of Washington (UW)**.
+I am a 3rd-year Ph.D. candidate in the Department of Electrical & Computer Engineering at the **University of Washington (UW)**.
 My research aims to bring ambient intelligence to everyday wireless and wearable devices through cutting-edge AI, multimodal sensing, and physics-driven modeling.   
   - **mmWave and NLoS Imaging:** developing compact, mobile imaging systems that achieve 3D, high-resolution non-line-of-sight imaging via low-cost mmWave platforms.: [IFNet](https://ieeexplore.ieee.org/abstract/document/10740682) (TMC'24), [PSF-SAR](https://www.nature.com/articles/s44172-023-00156-2) (CommsEng'24), [mmHide](https://ieeexplore.ieee.org/document/11007126) (TIFS'25), [DREAM-PCD](https://ieeexplore.ieee.org/abstract/document/10794585) (TIP'24).
     
