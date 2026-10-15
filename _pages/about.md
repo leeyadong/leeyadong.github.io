@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am a 3rd-year Ph.D. candidate in the Department of Electrical & Computer Engineering at the **University of Washington (UW)**.
-My research aims to bring ambient intelligence to everyday wireless and wearable devices through cutting-edge AI, multimodal sensing, and physics-driven modeling.   
+My research aims to bring ambient intelligence to everyday wireless and wearable devices through cutting-edge AI, multimodal sensing, and physics-driven modeling.    
   - **mmWave and NLoS Imaging:** developing compact, mobile imaging systems that achieve 3D, high-resolution non-line-of-sight imaging via low-cost mmWave platforms.: [IFNet](https://ieeexplore.ieee.org/abstract/document/10740682) (TMC'24), [PSF-SAR](https://www.nature.com/articles/s44172-023-00156-2) (CommsEng'24), [mmHide](https://ieeexplore.ieee.org/document/11007126) (TIFS'25), [DREAM-PCD](https://ieeexplore.ieee.org/abstract/document/10794585) (TIP'24).
     
   - **Wireless and Wearable Sensing:** designing intelligent, human-centric sensing systems that leverage wireless and wearable sensors for health monitoring, motion tracking, and interactive applications: [UltraPoser]() (UIST'25), [RF-Mamba](https://openreview.net/forum?id=lG9fjBLb6d) (ICLR'25), [RF-HRV](https://www.nature.com/articles/s41467-024-55061-9) (NatureComms'24), [RLoc](https://dl.acm.org/doi/abs/10.1145/3631437) (UbiComp'24).
